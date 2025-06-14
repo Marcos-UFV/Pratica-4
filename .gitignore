@@ -1,9 +1,9 @@
 # Gradle files
-.gradle/
-build/
+Pratica4_*/.gradle/
+Pratica4_*/build/
 
 # Local configuration file (sdk path, etc)
-local.properties
+Pratica4_*/local.properties
 
 # Log/OS Files
 *.log
@@ -31,3 +31,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+*.pdf
+LanternaHelper.java
+MotorHelper.java
